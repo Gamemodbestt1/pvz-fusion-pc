@@ -14,7 +14,7 @@ Game ini memperkenalkan beberapa fitur inovatif yang mendefinisikan ulang genre 
 - **Grafik dan Animasi yang Ditingkatkan**: Nikmati visual yang lebih halus dan animasi yang hidup untuk tanaman dan zombie.
 - **Tantangan Baru yang Sulit**: Beradaptasi dengan gelombang zombie yang lebih sulit yang memerlukan taktik kreatif.
 
-## Gameplay Plants vs. Zombies Fusion Edition
+## Gameplay 
 Dalam versi PvZ yang dimodifikasi ini dan kompatibel dengan PC, pemain mempertahankan taman mereka dari gelombang zombie yang tak henti-hentinya. Mekanik fusi adalah inti dari gameplay, memungkinkan pemain untuk menggabungkan tanaman klasik seperti Peashooter atau Sunflowers menjadi tanaman hibrida dengan kekuatan yang lebih kuat. Ketika zombie menyerang dalam jumlah yang lebih besar dan kondisi cuaca berubah, pemain harus:
 
 - **Menempatkan tanaman secara strategis** untuk mengelola sumber daya yang terbatas secara efektif.
@@ -23,7 +23,7 @@ Dalam versi PvZ yang dimodifikasi ini dan kompatibel dengan PC, pemain mempertah
 
 Game pertahanan menara hibrida ini menambahkan lapisan kompleksitas yang memberikan penghargaan atas keputusan yang bijaksana dan kreativitas.
 
-## Mengapa Memilih Plants vs. Zombies Fusion Edition?
+## Mengapa Memilih ?
 ### Fitur Mod
 - **Gameplay Inovatif**: Mekanik fusi meningkatkan formula klasik PvZ.
 - **Konten Buatan Penggemar**: Sebuah penghormatan untuk versi asli, dengan fitur yang ditingkatkan dan tantangan baru.
@@ -42,7 +42,7 @@ Game pertahanan menara hibrida ini menambahkan lapisan kompleksitas yang memberi
 - **Grafik**: Mod ini meningkatkan gaya kartun dari versi asli dengan desain tanaman hibrida yang lebih rinci dan animasi yang hidup.
 - **Suara**: Mempertahankan soundtrack unik dan efek suara yang disukai penggemar, dengan pembaruan halus untuk melengkapi fitur baru.
 
-## Tips Penting untuk Plants vs. Zombies Fusion Edition
+## Tips Penting untuk 
 - Gabungkan tanaman secara strategis untuk memaksimalkan dampak melawan gelombang zombie.
 - Pantau tingkat sinar matahari dengan cermat untuk mengoptimalkan penggunaan sumber daya.
 - Beradaptasi dengan efek cuaca dinamis yang dapat memengaruhi tanaman dan zombie.
